@@ -1,12 +1,23 @@
 /* global define, exports, module */
 (function () {
   class Infinite {
+    /**
+     *Creates an instance of Infinite.
+     * @memberof Infinite
+     */
     constructor() {
 
     }
-    destroy() {
+
+    add() {
 
     }
+
+    scroll() {
+
+    }
+
+    destroy() {}
   }
 
   window.Infinite = Infinite

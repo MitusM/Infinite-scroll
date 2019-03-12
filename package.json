@@ -1,0 +1,24 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "author": "MitusM",
+  "license": "MIT",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitusM/Infinite-scroll.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "bugs": {
+    "url": "https://github.com/MitusM/Infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/MitusM/Infinite-scroll#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
